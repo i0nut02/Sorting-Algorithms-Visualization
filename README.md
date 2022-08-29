@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/99051485/187165060-5113acdb-2596-4675-
 https://user-images.githubusercontent.com/99051485/187165167-e1c7e651-9389-44d3-b87d-86b61afa02ee.mov
 
 
-# - Selection Sort (i cut part of the video)
+# - Selection Sort (I cut part of the video)
 https://user-images.githubusercontent.com/99051485/187166200-714083e5-5a55-486b-a058-ac7afdf7fba2.mov
 
 
